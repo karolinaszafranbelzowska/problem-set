@@ -5,7 +5,7 @@ This repository contains my solutions to the "Problem Set 2019" for the module "
 
 Solution-1.py contains my solution to problem 1 - sumupto.py,
 
-Solution-2.py contains my solution to problem 2 - python begins with t.py,
+Solution-2.py contains my solution to problem 2 - python begins with t.py, # Adapted from Dr Ian McLoughlin's video (Module Programming and scripting - week 1)
 
 Solution-3.py contains my solution to problem 3 - divisors.py,
 
