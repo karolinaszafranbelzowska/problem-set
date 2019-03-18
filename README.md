@@ -20,7 +20,7 @@ Solution-5.py contains my solution to problem 5 - primes.py, # Adapted from http
 Solution-8.py contains my solution to problem 8 - datetime.py , first I did
 import datetime
 print ('Current date/time: {}'.format(datetime.datetime.now())) 
-but the format was not correct and finaly video below helped me solve the problem
+but the format was not correct and finaly video below helped me to solve the problem
 https://www.youtube.com/watch?v=HDe8InbWQJU
 
 Solution-10a.py contains my solution to problem 10 - a plot of the funkction x
