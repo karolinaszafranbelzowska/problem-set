@@ -3,7 +3,7 @@
 
 This repository contains my solutions to the "Problem Set 2019" for the module "Programming and Scripting" at GMIT
 Sites below helped me to solve most of the problems:
-https://www.sololearn.com/
+https://www.sololearn.com/;
 https://docs.python.org/3/library/
 
 
