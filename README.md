@@ -29,3 +29,5 @@ Adapted from https://www.youtube.com/watch?v=a9UrKTVEeZA
 Solution-10b.py contains my solution to problem 10 - a plot of the funkction x to the power of 2
 This video helped me to solve the problem
 https://www.youtube.com/watch?v=CuuvojEKHWo&t=202s
+
+Solution-10c.py contains my solution to problem 10 - a plot of the funkction 2 to the power of x
