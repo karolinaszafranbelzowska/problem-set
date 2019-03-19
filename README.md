@@ -17,6 +17,8 @@ Solution-4.py contains my solution to problem 4 - collatz.py, # Adapted from htt
 
 Solution-5.py contains my solution to problem 5 - primes.py, # Adapted from https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops and https://stackoverflow.com/questions/18833759/python-prime-number-checker
 
+Solution-6.py contains my solution to problem 6 - secondstring.py, this page helped me to solve the problem https://stackoverflow.com/questions/22767509/python-get-the-x-first-words-in-a-string/22767557
+
 Solution-8.py contains my solution to problem 8 - datetime.py , first I did
 import datetime
 print ('Current date/time: {}'.format(datetime.datetime.now())) 
