@@ -28,7 +28,7 @@ import datetime
 print ('Current date/time: {}'.format(datetime.datetime.now())) 
 but the format was not correct and finaly video below helped me to solve the problem
 https://www.youtube.com/watch?v=HDe8InbWQJU, 
-Although I have the correct date and time format, I wasunable to enter the appropriate suffixes.
+Although I have the correct date and time format, I was unable to enter the appropriate suffixes.
 
 Solution-10a.py contains my solution to problem 10 - a plot of the funkction x
 Adapted from https://www.youtube.com/watch?v=a9UrKTVEeZA
