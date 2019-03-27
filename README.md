@@ -4,7 +4,9 @@
 This repository contains my solutions to the "Problem Set 2019" for the module "Programming and Scripting" at GMIT
 Sites below helped me to solve most of the problems:
 https://www.sololearn.com/;
-https://docs.python.org/3/library/
+https://docs.python.org/3/library/:
+https://www.youtube.com/;
+https://stackoverflow.com/
 
 
 Solution-1.py contains my solution to problem 1 - sumupto.py,
@@ -25,7 +27,8 @@ Solution-8.py contains my solution to problem 8 - datetime.py , first I did
 import datetime
 print ('Current date/time: {}'.format(datetime.datetime.now())) 
 but the format was not correct and finaly video below helped me to solve the problem
-https://www.youtube.com/watch?v=HDe8InbWQJU
+https://www.youtube.com/watch?v=HDe8InbWQJU, 
+Although I have the correct date and time format, I wasunable to enter the appropriate suffixes.
 
 Solution-10a.py contains my solution to problem 10 - a plot of the funkction x
 Adapted from https://www.youtube.com/watch?v=a9UrKTVEeZA
