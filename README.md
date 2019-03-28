@@ -22,7 +22,7 @@ Solution-5.py contains my solution to problem 5 - primes.py, # Adapted from http
 
 Solution-6.py contains my solution to problem 6 - secondstring.py, this page helped me to solve the problem https://stackoverflow.com/questions/22767509/python-get-the-x-first-words-in-a-string/22767557
 
-Solution-7.py contains my solution to problem 7 - squareroot.py, # Adapted from https://tour.golang.org/flowcontrol/8 and https://web.microsoftstream.com/video/dca7ddaa-9512-4810-a758-237921e6440e 
+Solution-7.py contains my solution to problem 7 - squareroot.py, # Adapted from https://tour.golang.org/flowcontrol/8 and https://web.microsoftstream.com/video/dca7ddaa-9512-4810-a758-237921e6440e (Dr Ian McLoughlin's video - week 8)
 
 Solution-8.py contains my solution to problem 8 - datetime.py , first I did
 import datetime
