@@ -1,6 +1,8 @@
 # solution to problem number 7
 # Karolina Szafran Belzowska, 2019/03/27
 # An approximation of a square root ( Newton's method)
+# Adapted from https://tour.golang.org/flowcontrol/8 and
+# https://web.microsoftstream.com/video/dca7ddaa-9512-4810-a758-237921e6440e (Dr Ian McLoughlin's video - week 8)
 
 # The number to calculate the square root of 14.5
 rootof = 14.5 
