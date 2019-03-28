@@ -1,3 +1,5 @@
+# Karolina Szafran-Belzowska, 2019/03/16
+# 
 
 i=int(input("Enter any possitive integer between 1 and 100:"))
 if i <= 1:
