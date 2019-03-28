@@ -1,4 +1,4 @@
-# problem-set
+# problem-set solutions
 # Karolina Szafran-Belzowska, 2019-03-16
 
 This repository contains my solutions to the "Problem Set 2019" for the module "Programming and Scripting" at GMIT
