@@ -1,7 +1,8 @@
 # problem-set solutions
 # Karolina Szafran-Belzowska, 2019-03-16
 
-This repository contains my solutions to the "Problem Set 2019" for the module "Programming and Scripting" at GMIT
+This repository contains my solutions to the "Problem Set 2019" for the module "Programming and Scripting" at GMIT.
+
 Sites below helped me to solve most of the problems:
 https://www.sololearn.com/;
 https://docs.python.org/3/library/:
