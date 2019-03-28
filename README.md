@@ -34,6 +34,7 @@ Although I have the correct date and time format, I was unable to enter the appr
 Solution-9.py contains my solution to problem 9 - second.py  moby-dick.txt
 It was the most difficult problem to solve for me. It took me a few days to finaly get the problem. At this time that's the only way I understand the command line argument. 
 Adapted from https://www.youtube.com/watch?v=qjdeQ83T9sQ 
+There's just Chapter 1 of "Moby Dick or the Whale" in my_text and my program prints just up to line 20.
 
 Solution-10a.py contains my solution to problem 10 - a plot of the funkction x
 Adapted from https://www.youtube.com/watch?v=a9UrKTVEeZA
