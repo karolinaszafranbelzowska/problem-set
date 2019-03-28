@@ -29,7 +29,11 @@ import datetime
 print ('Current date/time: {}'.format(datetime.datetime.now())) 
 but the format was not correct and finaly video below helped me to solve the problem
 https://www.youtube.com/watch?v=HDe8InbWQJU, 
-Although I have the correct date and time format, I was unable to enter the appropriate suffixes.
+Although I have the correct date and time format, I was unable to enter the appropriate suffixes (At this stage of my knowledge I don't know how to do it, but definately I will try to solve this problem in the nearest future)
+
+Solution-9.py contains my solution to problem 9 - second.py  moby-dick.txt
+It was the most difficult problem to solve for me. It took me a few days to finaly get the problem. At this time that's the only way I understand the command line argument. 
+Adapted from https://www.youtube.com/watch?v=qjdeQ83T9sQ 
 
 Solution-10a.py contains my solution to problem 10 - a plot of the funkction x
 Adapted from https://www.youtube.com/watch?v=a9UrKTVEeZA
