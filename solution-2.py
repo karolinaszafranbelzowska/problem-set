@@ -1,5 +1,6 @@
 # Karolina Szafran Belzowska, 2019-03-15
 # Is it a day that begins with letter T?
+# Adapted from Dr Ian McLoughlin's video (Module Programming and scripting - week 1)
 
 import datetime
 
