@@ -4,12 +4,14 @@
 This repository contains my solutions to the "Problem Set 2019" for the module "Programming and Scripting" at GMIT.
 See here for the instructions : https://github.com/ianmcloughlin/problems-pands-2019/raw/master/problems.pdf 
 
-Sites below helped me to solve most of the problems:
-https://www.sololearn.com/;
-https://docs.python.org/3/library/:
-https://www.youtube.com/;
-https://stackoverflow.com/
-
+## How to download this repository
+  1. Go to GitHub
+  2. Click the download button.
+  
+## How to run the code
+  1. Make sure you have Python installed
+  
+## What each file contains
 
 Solution-1.py contains my solution to problem 1 - sumupto.py,
 
@@ -45,3 +47,10 @@ This video helped me to solve the problem
 https://www.youtube.com/watch?v=CuuvojEKHWo&t=202s
 
 Solution-10c.py contains my solution to problem 10 - a plot of the funkction 2 to the power of x
+
+
+Sites below helped me to solve most of the problems:
+https://www.sololearn.com/;
+https://docs.python.org/3/library/:
+https://www.youtube.com/;
+https://stackoverflow.com/
