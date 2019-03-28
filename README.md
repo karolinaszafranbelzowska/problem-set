@@ -1,10 +1,13 @@
-# problem-set
+# problem-set solutions
 # Karolina Szafran-Belzowska, 2019-03-16
 
-This repository contains my solutions to the "Problem Set 2019" for the module "Programming and Scripting" at GMIT
+This repository contains my solutions to the "Problem Set 2019" for the module "Programming and Scripting" at GMIT.
+
 Sites below helped me to solve most of the problems:
 https://www.sololearn.com/;
-https://docs.python.org/3/library/
+https://docs.python.org/3/library/:
+https://www.youtube.com/;
+https://stackoverflow.com/
 
 
 Solution-1.py contains my solution to problem 1 - sumupto.py,
@@ -19,11 +22,18 @@ Solution-5.py contains my solution to problem 5 - primes.py, # Adapted from http
 
 Solution-6.py contains my solution to problem 6 - secondstring.py, this page helped me to solve the problem https://stackoverflow.com/questions/22767509/python-get-the-x-first-words-in-a-string/22767557
 
+Solution-7.py contains my solution to problem 7 - squareroot.py, # Adapted from https://tour.golang.org/flowcontrol/8 and https://web.microsoftstream.com/video/dca7ddaa-9512-4810-a758-237921e6440e (Dr Ian McLoughlin's video - week 8)
+
 Solution-8.py contains my solution to problem 8 - datetime.py , first I did
 import datetime
 print ('Current date/time: {}'.format(datetime.datetime.now())) 
 but the format was not correct and finaly video below helped me to solve the problem
-https://www.youtube.com/watch?v=HDe8InbWQJU
+https://www.youtube.com/watch?v=HDe8InbWQJU, 
+Although I have the correct date and time format, I was unable to enter the appropriate suffixes (At this stage of my knowledge I don't know how to do it, but definately I will try to solve this problem in the nearest future)
+
+Solution-9.py contains my solution to problem 9 - second.py  moby-dick.txt
+It was the most difficult problem to solve for me. It took me a few days to finaly get the problem. At this time that's the only way I understand the command line argument. 
+Adapted from https://www.youtube.com/watch?v=qjdeQ83T9sQ 
 
 Solution-10a.py contains my solution to problem 10 - a plot of the funkction x
 Adapted from https://www.youtube.com/watch?v=a9UrKTVEeZA
