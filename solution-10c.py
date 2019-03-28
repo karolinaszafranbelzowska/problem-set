@@ -1,3 +1,5 @@
+# Karolina Szafran-Belzowska, 2019/03/18
+
 
 import matplotlib.pyplot as plt 
 
