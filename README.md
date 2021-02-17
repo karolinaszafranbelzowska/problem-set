@@ -2,13 +2,16 @@
 # Karolina Szafran-Belzowska, 2019-03-16
 
 This repository contains my solutions to the "Problem Set 2019" for the module "Programming and Scripting" at GMIT.
+See here for the instructions : https://github.com/ianmcloughlin/problems-pands-2019/raw/master/problems.pdf 
 
-Sites below helped me to solve most of the problems:
-https://www.sololearn.com/;
-https://docs.python.org/3/library/:
-https://www.youtube.com/;
-https://stackoverflow.com/
-
+## How to download this repository
+  1. Go to GitHub
+  2. Click the download button.
+  
+## How to run the code
+  1. Make sure you have Python installed
+  
+## What each file contains
 
 Solution-1.py contains my solution to problem 1 - sumupto.py,
 
@@ -34,6 +37,7 @@ Although I have the correct date and time format, I was unable to enter the appr
 Solution-9.py contains my solution to problem 9 - second.py  moby-dick.txt
 It was the most difficult problem to solve for me. It took me a few days to finaly get the problem. At this time that's the only way I understand the command line argument. 
 Adapted from https://www.youtube.com/watch?v=qjdeQ83T9sQ 
+There's just Chapter 1 of "Moby Dick or the Whale" in my_text and my program prints just up to line 20.
 
 Solution-10a.py contains my solution to problem 10 - a plot of the funkction x
 Adapted from https://www.youtube.com/watch?v=a9UrKTVEeZA
@@ -43,3 +47,10 @@ This video helped me to solve the problem
 https://www.youtube.com/watch?v=CuuvojEKHWo&t=202s
 
 Solution-10c.py contains my solution to problem 10 - a plot of the funkction 2 to the power of x
+
+
+Sites below helped me to solve most of the problems:
+https://www.sololearn.com/;
+https://docs.python.org/3/library/:
+https://www.youtube.com/;
+https://stackoverflow.com/

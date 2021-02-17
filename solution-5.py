@@ -1,3 +1,7 @@
+# Karolina Szafran-Belzowska, 2019/03/16
+# Adapted from https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops and 
+# https://stackoverflow.com/questions/18833759/python-prime-number-checker
+# This code will show the user wheter or not the number is a prime
 
 # Karolina Szafran-Belzowska, 2019/03/16
 # Adapted from https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops and 

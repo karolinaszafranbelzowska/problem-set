@@ -1,3 +1,5 @@
+# Karolina Szafran-Belzowska, 2019/03/18
+# a plot of the funkction 2 to the power of x
 
 import matplotlib.pyplot as plt 
 
